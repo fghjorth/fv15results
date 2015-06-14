@@ -128,6 +128,7 @@ for (i in 1:length(level3links)){
     }
 }
 
-
+setwd("~/GitHub/fv15results")
+write.csv(level4,"valgsteder.csv",quote=T)
 
 

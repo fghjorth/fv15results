@@ -1,0 +1,1390 @@
+"","landsdel","storkreds","opstillingskreds","valgsted","pop"
+"1","Hovedstaden","Københavns Storkreds","1. Østerbro","1. Nord",5697
+"2","Hovedstaden","Københavns Storkreds","1. Østerbro","1. Nordvest",9512
+"3","Hovedstaden","Københavns Storkreds","1. Østerbro","1. Syd",14178
+"4","Hovedstaden","Københavns Storkreds","1. Østerbro","1. Vest",10808
+"5","Hovedstaden","Københavns Storkreds","1. Østerbro","1. Østerbro",13452
+"6","Hovedstaden","Københavns Storkreds","2. Sundbyvester","2. Nord",12502
+"7","Hovedstaden","Københavns Storkreds","2. Sundbyvester","2. Sundbyvester",12825
+"8","Hovedstaden","Københavns Storkreds","2. Sundbyvester","2. Syd",9229
+"9","Hovedstaden","Københavns Storkreds","2. Sundbyvester","2. Vest",9927
+"10","Hovedstaden","Københavns Storkreds","3. Indre By","3. Indre By",13969
+"11","Hovedstaden","Københavns Storkreds","3. Indre By","3. Nord",6237
+"12","Hovedstaden","Københavns Storkreds","3. Indre By","3. Syd",9109
+"13","Hovedstaden","Københavns Storkreds","3. Indre By","3. Øst",11360
+"14","Hovedstaden","Københavns Storkreds","4. Sundbyøster","4. Nord",14370
+"15","Hovedstaden","Københavns Storkreds","4. Sundbyøster","4. Sundbyøster",8496
+"16","Hovedstaden","Københavns Storkreds","4. Sundbyøster","4. Syd",8166
+"17","Hovedstaden","Københavns Storkreds","4. Sundbyøster","4. Øst",8722
+"18","Hovedstaden","Københavns Storkreds","5. Nørrebro","5. Midt",3268
+"19","Hovedstaden","Københavns Storkreds","5. Nørrebro","5. Nord",13681
+"20","Hovedstaden","Københavns Storkreds","5. Nørrebro","5. Nordvest",10012
+"21","Hovedstaden","Københavns Storkreds","5. Nørrebro","5. Nørrebro",10228
+"22","Hovedstaden","Københavns Storkreds","5. Nørrebro","5. Syd",5859
+"23","Hovedstaden","Københavns Storkreds","5. Nørrebro","5. Vest",6962
+"24","Hovedstaden","Københavns Storkreds","5. Nørrebro","5. Øst",5398
+"25","Hovedstaden","Københavns Storkreds","6. Bispebjerg","6. Bispebjerg",15286
+"26","Hovedstaden","Københavns Storkreds","6. Bispebjerg","6. Nord",7296
+"27","Hovedstaden","Københavns Storkreds","6. Bispebjerg","6. Syd",9471
+"28","Hovedstaden","Københavns Storkreds","6. Bispebjerg","6. Øst",4040
+"29","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Brønshøj",3852
+"30","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Katrinedal",4374
+"31","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Kirkebjerg",5122
+"32","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Nord",2271
+"33","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Nordvest",8014
+"34","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Syd",7104
+"35","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Vanløse",10077
+"36","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Vest",6041
+"37","Hovedstaden","Københavns Storkreds","7. Brønshøj","7. Øst",7838
+"38","Hovedstaden","Københavns Storkreds","8. Valby","8. Midt",6195
+"39","Hovedstaden","Københavns Storkreds","8. Valby","8. Nord",8513
+"40","Hovedstaden","Københavns Storkreds","8. Valby","8. Syd",4536
+"41","Hovedstaden","Københavns Storkreds","8. Valby","8. Sydøst",3783
+"42","Hovedstaden","Københavns Storkreds","8. Valby","8. Valby",8084
+"43","Hovedstaden","Københavns Storkreds","8. Valby","8. Vest",4822
+"44","Hovedstaden","Københavns Storkreds","9. Vesterbro","9. Midt",2944
+"45","Hovedstaden","Københavns Storkreds","9. Vesterbro","9. Nord",8191
+"46","Hovedstaden","Københavns Storkreds","9. Vesterbro","9. Syd",8486
+"47","Hovedstaden","Københavns Storkreds","9. Vesterbro","9. Sydhavn",3993
+"48","Hovedstaden","Københavns Storkreds","9. Vesterbro","9. Vest",5422
+"49","Hovedstaden","Københavns Storkreds","9. Vesterbro","9. Vesterbro",7041
+"50","Hovedstaden","Københavns Storkreds","9. Vesterbro","9. Øst",6262
+"51","Hovedstaden","Københavns Storkreds","10. Falkoner","10. Kreds, Bülowsvej",10990
+"52","Hovedstaden","Københavns Storkreds","10. Falkoner","10. Kreds, Duevej",10088
+"53","Hovedstaden","Københavns Storkreds","10. Falkoner","10. Kreds, Ny Hollænder",8554
+"54","Hovedstaden","Københavns Storkreds","10. Falkoner","10. Kreds, Søerne",8154
+"55","Hovedstaden","Københavns Storkreds","11. Slots","11. Kreds, Lindevang",10136
+"56","Hovedstaden","Københavns Storkreds","11. Slots","11. Kreds, Nyelandsvej",7937
+"57","Hovedstaden","Københavns Storkreds","11. Slots","11. Kreds, Rådhuset",9892
+"58","Hovedstaden","Københavns Storkreds","11. Slots","11. Kreds, Søndermark",8823
+"59","Hovedstaden","Københavns Storkreds","12. Tårnby","Dragør Skole Syd",3810
+"60","Hovedstaden","Københavns Storkreds","12. Tårnby","Hollænderhallen",6312
+"61","Hovedstaden","Københavns Storkreds","12. Tårnby","Kastrup",8524
+"62","Hovedstaden","Københavns Storkreds","12. Tårnby","Korsvejen",4101
+"63","Hovedstaden","Københavns Storkreds","12. Tårnby","Løjtegården",3641
+"64","Hovedstaden","Københavns Storkreds","12. Tårnby","Pilegården",5122
+"65","Hovedstaden","Københavns Storkreds","12. Tårnby","Tårnby",4839
+"66","Hovedstaden","Københavns Storkreds","12. Tårnby","Vestamager",4504
+"67","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Bakkegård",5279
+"68","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Dyssegård",5022
+"69","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Hellerup",6035
+"70","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Jægersborg",5346
+"71","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Maglegård",5618
+"72","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Munkegård",4434
+"73","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Ordrup",4398
+"74","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Rådhuset",5199
+"75","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Skovgård",4596
+"76","Hovedstaden","Københavns Omegns Storkreds","1. Gentofte","Skovshoved",5020
+"77","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Engelsborg",4988
+"78","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Fuglsanggård",3856
+"79","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Hummeltofte",3501
+"80","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Kongevej",2167
+"81","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Lindegård",4309
+"82","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Lundtofte",4491
+"83","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Lyngby Midt",4776
+"84","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Taarbæk",1101
+"85","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Trongård",4636
+"86","Hovedstaden","Københavns Omegns Storkreds","2. Lyngby","Virum",4744
+"87","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Bagsværd",4804
+"88","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Egegård",5904
+"89","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Grønnemose",6362
+"90","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Hovedbiblioteket",6226
+"91","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Mørkhøj",6273
+"92","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Stengård",6099
+"93","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Søborg",3774
+"94","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Vadgård",4457
+"95","Hovedstaden","Københavns Omegns Storkreds","3. Gladsaxe","Værebro",2379
+"96","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Herlev Hallerne",6299
+"97","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Herlev Medborgerhus",6967
+"98","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Kildegårdhallen",6490
+"99","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Islev",3954
+"100","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Rødovre",5774
+"101","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Rødovrehallen",6209
+"102","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Tinderhøj",4183
+"103","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Valhøj",3730
+"104","Hovedstaden","Københavns Omegns Storkreds","4. Rødovre","Ørbygård",3126
+"105","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Avedøre Idrætscenter",4686
+"106","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Avedøre Skole",5578
+"107","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Dansborghallen",5086
+"108","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Frihedens Idrætscenter",5185
+"109","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Holmegårdshallen",4021
+"110","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Medborgerhuset",4632
+"111","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Præstemoseskolen",3277
+"112","Hovedstaden","Københavns Omegns Storkreds","5. Hvidovre","Sønderkærskolen",4348
+"113","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Brøndbyvester Skole",3257
+"114","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Kulturhuset Brønden",8440
+"115","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Lindelundshallen",3045
+"116","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Nørregård",5516
+"117","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Tjørnehøjhallen",3532
+"118","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Gildbroskolen",3531
+"119","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Ishøj Bycenter",3501
+"120","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Ishøj Landsby",1262
+"121","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Strandgårdskolen",2586
+"122","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Vibeholmskolen",2616
+"123","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Egholmskolen",3121
+"124","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Pilehaveskolen",3907
+"125","Hovedstaden","Københavns Omegns Storkreds","6. Brøndby","Vallensbæk Skole, Multisalen",3315
+"126","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Egelundskolen",3220
+"127","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Herstedlund Skole",3078
+"128","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Herstedvester Skole",4283
+"129","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Herstedøster Skole",4458
+"130","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Musikteatret",3266
+"131","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Borgerskolen",1607
+"132","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Charlotteskolen",1881
+"133","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Fløng Hallen",2996
+"134","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Fritidscentret Hedehuset",3429
+"135","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Gadehaveskolen",4137
+"136","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Mølleholmskolen",2468
+"137","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Parkskolen",3262
+"138","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Reerslev Skole",614
+"139","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Rønnevangshallen",3187
+"140","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Selsmoseskolen",2388
+"141","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Sengeløse",1881
+"142","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Taastrup Kulturcenter",2119
+"143","Hovedstaden","Københavns Omegns Storkreds","7. Taastrup","Torstorp Skole",2771
+"144","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Egebjerghallen",3226
+"145","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Grantoftehallen",2786
+"146","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Højagerskolen",2659
+"147","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Lundebjergskolen",3847
+"148","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Måløv Ny Hal",4087
+"149","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Rosenlundskolen",3681
+"150","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Rugvængets Skole",6231
+"151","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Tapeten",4258
+"152","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Tidl. Skovlunde Lokalkontor",1669
+"153","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Østerhøjhallen",2084
+"154","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Ejbyskolen",1452
+"155","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Hvissingehallen",2640
+"156","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Nordvangskolen",2286
+"157","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Sognegården",2521
+"158","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Søndervangskolen",4195
+"159","Hovedstaden","Københavns Omegns Storkreds","8. Ballerup","Vestervangskolen",3045
+"160","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Administrationsbygningen, Esp",3305
+"161","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Bølgen",4238
+"162","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Helsingør Hallen",9626
+"163","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Hornbæk Skole",3933
+"164","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Kvistgård Idrætsanlæg",860
+"165","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Laden, Gl. Vapnagård",5462
+"166","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Montebello, Gurrevej 90",7234
+"167","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Mørdrupskolen, Espergærde",4902
+"168","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Nygård Skole, Helsingør",1034
+"169","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Snekkersten Hallen",3627
+"170","Hovedstaden","Nordsjællands Storkreds","1. Helsingør","Tikøb Skole",1249
+"171","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Asminderød",4500
+"172","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Baunebjerg",3524
+"173","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Brønsholm",3411
+"174","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Fredensborg",3385
+"175","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Humlebæk",3500
+"176","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Karlebo",859
+"177","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Niverød",2895
+"178","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Nivå",2662
+"179","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Ullerød",3235
+"180","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Grønnegade",324
+"181","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Hørsholm",4699
+"182","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Rungsted",3269
+"183","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Usserød",4827
+"184","Hovedstaden","Nordsjællands Storkreds","2. Fredensborg","Vallerød",5031
+"185","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Annisse",1675
+"186","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Blistrup",3664
+"187","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Esbønderup",2439
+"188","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Gilleleje",5164
+"189","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Græsted",3702
+"190","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Helsinge",5813
+"191","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Mårum",801
+"192","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Ramløse",2321
+"193","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Søborg",1238
+"194","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Tibirke",1536
+"195","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Valby",418
+"196","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Vejby",2300
+"197","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Alsønderup",1758
+"198","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Brødeskov",635
+"199","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Frederiksborgcentret",6417
+"200","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Gadevang",806
+"201","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Grønnevang Skole, Jespervej",3157
+"202","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Grønnevang Skole, Østervang",5055
+"203","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Gørløse",951
+"204","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Hammersholt",1149
+"205","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Hillerødsholmsskolen",4603
+"206","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Lille Lyngby",1533
+"207","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Nødebo",1496
+"208","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Skævinge, Harløse, Strø",2807
+"209","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Ullerød",3872
+"210","Hovedstaden","Nordsjællands Storkreds","3. Hillerød","Uvelse",977
+"211","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Frederikssund Nord",6297
+"212","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Frederikssund Syd",8523
+"213","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Jægerspris",6291
+"214","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Skibby",6527
+"215","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Slangerup",5872
+"216","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Enghave Hallen",3033
+"217","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Hundested Hallen",7494
+"218","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Melby Hallen",3179
+"219","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Rådhuset",7129
+"220","Hovedstaden","Nordsjællands Storkreds","4. Frederikssund","Ølsted Hallen",2469
+"221","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Bækkegårdsskolen",3061
+"222","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Ganløse",2549
+"223","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Ledøje Forsamlingshus",865
+"224","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Ledøje-Smørum Idrætscenter",7126
+"225","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Slagslunde",1215
+"226","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Stengårdsskolen",4538
+"227","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Stenløse",4650
+"228","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Toftehøjskolen",4869
+"229","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Veksø",1459
+"230","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Hareskov",2553
+"231","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Jonstrup",904
+"232","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Paltholm",3616
+"233","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Solvang",5542
+"234","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Stavnsholt",4148
+"235","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Søndersø",3432
+"236","Hovedstaden","Nordsjællands Storkreds","5. Egedal","Værløse",7194
+"237","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Blovstrød",1912
+"238","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Lillerød",4162
+"239","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Lynge",3703
+"240","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Ravnsholt",4109
+"241","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Skovvang",3585
+"242","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Birkerød",4863
+"243","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Ny Holte",4769
+"244","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Nærum",3815
+"245","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Sjælsø",5238
+"246","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Skovly",2469
+"247","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Toftevang",5668
+"248","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Trørød",3919
+"249","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Vangebo",2933
+"250","Hovedstaden","Nordsjællands Storkreds","6. Rudersdal","Vedbæk",5316
+"251","Hovedstaden","Bornholms Storkreds","1. Rønne","Hasle",2268
+"252","Hovedstaden","Bornholms Storkreds","1. Rønne","Klemensker",1981
+"253","Hovedstaden","Bornholms Storkreds","1. Rønne","Rønne",11180
+"254","Hovedstaden","Bornholms Storkreds","2. Aakirkeby","Aakirkeby",4236
+"255","Hovedstaden","Bornholms Storkreds","2. Aakirkeby","Allinge",2811
+"256","Hovedstaden","Bornholms Storkreds","2. Aakirkeby","Nexø",3534
+"257","Hovedstaden","Bornholms Storkreds","2. Aakirkeby","Pedersker",1335
+"258","Hovedstaden","Bornholms Storkreds","2. Aakirkeby","Svaneke",1696
+"259","Hovedstaden","Bornholms Storkreds","2. Aakirkeby","Østermarie",2341
+"260","Hovedstaden","Bornholms Storkreds","2. Aakirkeby","Christiansø",59
+"261","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Askø",44
+"262","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Birket",433
+"263","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Dannemare",2285
+"264","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Errindlev",606
+"265","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Fejø",362
+"266","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Femø",110
+"267","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Holeby",2098
+"268","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Horslunde",1836
+"269","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Maribo",5294
+"270","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Nakskov Idrætscenter",6876
+"271","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Nakskov Stormarkskolen",4311
+"272","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Rødby",2985
+"273","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Rødbyhavn",1350
+"274","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Sandby",805
+"275","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Søllested",1732
+"276","Sjælland-Syddanmark","Sjællands Storkreds","1. Lolland","Østofte",2724
+"277","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Byen",3725
+"278","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Ejegod",3401
+"279","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Eskilstrup",2109
+"280","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Gedser",1177
+"281","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Horreby",2488
+"282","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Idestrup",1579
+"283","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Kraghave",2096
+"284","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Lindeskov",2875
+"285","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Majbølle",1327
+"286","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Nysted",2447
+"287","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Nørre Alslev",2516
+"288","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Nørre Vedby",1810
+"289","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Sakskøbing",4602
+"290","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Stubbekøbing",3058
+"291","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Sundby",2669
+"292","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Toreby",1507
+"293","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Væggerløse",2779
+"294","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Våbensted",947
+"295","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Øster Ulslev",1405
+"296","Sjælland-Syddanmark","Sjællands Storkreds","2. Guldborgsund","Østerbro",3202
+"297","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Allerslev",926
+"298","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Bogø",882
+"299","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Bårse",930
+"300","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Jungshoved",619
+"301","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Kalvehave",1699
+"302","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Kastrup",2076
+"303","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Lundby",2950
+"304","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Masnedsund",3246
+"305","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Mern",1437
+"306","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Nyråd",2259
+"307","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Præstø",3318
+"308","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Stege",4443
+"309","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Stensved",1533
+"310","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Vestmøn",1819
+"311","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Vordingborg",4326
+"312","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Ørslev",1599
+"313","Sjælland-Syddanmark","Sjællands Storkreds","3. Vordingborg","Østmøn",1324
+"314","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Everdrup",819
+"315","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Fensmark",3669
+"316","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Fuglebjerg Hallen",3408
+"317","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Glumsø",2417
+"318","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Grønbro-Hallen",1595
+"319","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Grønnegades Kaserne",3080
+"320","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Hammer - Vester Egesborg",1272
+"321","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Herlufmagle",2458
+"322","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Herlufsholmhallen",4353
+"323","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Holme-Olstrup",1090
+"324","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Hyllinge",1484
+"325","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Kalbyrisskolen",2743
+"326","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Karrebæk",2049
+"327","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Kildemarkskolen",4329
+"328","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Ll Næstved Skole-Herlufsholmve",2664
+"329","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Ll. Næstved Skole-Karrebækvej",3637
+"330","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Næstelsø - Mogenstrup",1889
+"331","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Næstved Hallerne",4638
+"332","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Rønnebæk",656
+"333","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Sandby",420
+"334","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Sct. Jørgens Skole",5051
+"335","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Skelby",521
+"336","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Snesere",1968
+"337","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Sydbyskolen",3692
+"338","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Toksværd",1281
+"339","Sjælland-Syddanmark","Sjællands Storkreds","4. Næstved","Tybjerg",733
+"340","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Dalby",2694
+"341","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Faxe",3609
+"342","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Haslev 01",5445
+"343","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Haslev 02",5992
+"344","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Hylleholt",3098
+"345","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Karise",3068
+"346","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Rønnede",2813
+"347","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Harmonien",2927
+"348","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Hårlevhallen",4289
+"349","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Stevnshallen",4494
+"350","Sjælland-Syddanmark","Sjællands Storkreds","5. Faxe","Strøbyhallen",5184
+"351","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Alkestrup",1053
+"352","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Bjæverskov",2578
+"353","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Borup",4335
+"354","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Ejby",2780
+"355","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Gørslev",973
+"356","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Hastrup",4078
+"357","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Herfølge",2504
+"358","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Herfølge - Syd",2631
+"359","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Højelse / Lille Skensved",1613
+"360","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Køge By - Midt",3411
+"361","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Køge By - Nord",3861
+"362","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Køge By - Vest",4248
+"363","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Lellinge",713
+"364","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Vemmedrup",1278
+"365","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Ølby",4005
+"366","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Ølsemagle",3139
+"367","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Gevninge",2125
+"368","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Glim",951
+"369","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Hvalsø",3276
+"370","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Hyllinge-Lyndby",2937
+"371","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Kr.Såby",2199
+"372","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Lejre",1912
+"373","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Osted",2315
+"374","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Rye",1946
+"375","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Sonnerup",1127
+"376","Sjælland-Syddanmark","Sjællands Storkreds","6. Køge","Sæby-Gershøj",1251
+"377","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Arenaskolen",2978
+"378","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Holmeagerskolen",7854
+"379","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Hundigehallen",3993
+"380","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Karlslundehallerne",6023
+"381","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Mosedeskolen",3827
+"382","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Tjørnelyskolen",5414
+"383","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Tunehallerne",5028
+"384","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Det Nordlige Strandområde",5106
+"385","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Det Sydlige Strandområde",7259
+"386","Sjælland-Syddanmark","Sjællands Storkreds","7. Greve","Havdrup",3292
+"387","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Baunehøj",2764
+"388","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Dåstrup",1212
+"389","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Gadstrup",1719
+"390","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Gundsølille",2497
+"391","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Gundsømagle",2017
+"392","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Hedegårdene",3651
+"393","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Himmelev",5767
+"394","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Jyllinge",4620
+"395","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Klostermarken",4301
+"396","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Roskilde Bymidte",4365
+"397","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Sankt Jørgen",6249
+"398","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Snoldelev",842
+"399","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Svogerslev",3311
+"400","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Trekroner",2716
+"401","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Viby",3260
+"402","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Vindinge",1789
+"403","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Vor Frue",868
+"404","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Æblehaven",5235
+"405","Sjælland-Syddanmark","Sjællands Storkreds","8. Roskilde","Østervang",5222
+"406","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Gislinge",2560
+"407","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Holbæk Midt",4419
+"408","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Holbæk Vest",7314
+"409","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Holbæk Øst",7057
+"410","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Jyderup",3778
+"411","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Mørkøv",3106
+"412","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Orø",711
+"413","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Regstrup",3006
+"414","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","St. Merløse",2725
+"415","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Svinninge",2726
+"416","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Tuse",3131
+"417","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Tølløse",3521
+"418","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Udby",1841
+"419","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Undløse",2511
+"420","Sjælland-Syddanmark","Sjællands Storkreds","9. Holbæk","Vipperød",3112
+"421","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Buerup",1402
+"422","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Gierslev",1064
+"423","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Gørlev",2361
+"424","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Høng",3862
+"425","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Kalundborghallen",3040
+"426","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Kr. Helsinge",1382
+"427","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Raklev",3406
+"428","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Reersø",522
+"429","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Rynkevang",2723
+"430","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Røsnæs",675
+"431","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Sejerø",314
+"432","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Snertinge",2717
+"433","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Svallerup",945
+"434","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Svebølle",3441
+"435","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Tømmerup",1237
+"436","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Ubby",2427
+"437","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Ulshøj",3166
+"438","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Årby-Rørby",2646
+"439","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Asnæs",3149
+"440","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Egebjerg",1144
+"441","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Fårevejle",3000
+"442","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Grevinge",1985
+"443","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Højby",3005
+"444","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Hørve",2553
+"445","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Lumsås",558
+"446","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Nr. Asmindrup",834
+"447","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Nykøbing",4954
+"448","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Odden",1096
+"449","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Rørvig",1333
+"450","Sjælland-Syddanmark","Sjællands Storkreds","10. Kalundborg","Vig",2508
+"451","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Benløse",3844
+"452","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Bringstrup",623
+"453","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Gyrstinge",587
+"454","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Haraldsted",995
+"455","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Jystrup",1076
+"456","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Kværkeby",970
+"457","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Nordrup",845
+"458","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Ringsted Dagmarskolen",4355
+"459","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Ringsted Nørretorv",7958
+"460","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Sneslev",536
+"461","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Vetterslev",977
+"462","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Vigersted",1004
+"463","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Ørslev",663
+"464","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Alsted Fjenneslev",1429
+"465","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Dianalund",4409
+"466","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Frederiksberg",3505
+"467","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Pedersborg",2952
+"468","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Ruds Vedby",1523
+"469","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Sorø",4069
+"470","Sjælland-Syddanmark","Sjællands Storkreds","11. Ringsted","Stenlille",4266
+"471","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Agersø",153
+"472","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Antvorskov",4127
+"473","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Boeslunde",1066
+"474","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Dalmose",1384
+"475","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Eggeslevmagle Forsamlingshus",463
+"476","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Flakkebjerg",977
+"477","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Havrebjerg Heldagsskole",447
+"478","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Korsør Nordre Bydel",5523
+"479","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Korsør Søndre Bydel",5841
+"480","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Magleby Forsamlingshus",387
+"481","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Nordhallen",5865
+"482","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Omø",141
+"483","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Rude",1330
+"484","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Skælskør Vest",2899
+"485","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Skælskør Øst",2157
+"486","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Slagelse Hallen",5361
+"487","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Slots Bjergby",1250
+"488","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Stillinge",2013
+"489","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Søndermark",4793
+"490","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Sørbymagle",1418
+"491","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Tjæreby Forsamlingshus",585
+"492","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Tårnborg",1915
+"493","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Vemmelev",2561
+"494","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Vestermose",1051
+"495","Sjælland-Syddanmark","Sjællands Storkreds","12. Slagelse","Vesthallen",4875
+"496","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Agedrup Skole",2187
+"497","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Bækholmskolen",3588
+"498","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Camp U",5514
+"499","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Ejerslykkeskolen",5472
+"500","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Fjordager Hallen",4403
+"501","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Fraugde Fritidscenter",2555
+"502","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Munkebjergskolen",7822
+"503","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Risingskolen",3069
+"504","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Sct. Hans Skole",8030
+"505","Sjælland-Syddanmark","Fyns Storkreds","1. Odense Øst","Skt. Jørgens Hallen",9078
+"506","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Borgerservicecenter",8016
+"507","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Csv-Skolen",7730
+"508","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Korup Skole",3611
+"509","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Kroggårdskolen",4993
+"510","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Lumby Forsamlingshus",919
+"511","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Paarup Hallen",3614
+"512","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Spurvelundskolen",3144
+"513","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Stige Skole",4844
+"514","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Tarup Skole",4478
+"515","Sjælland-Syddanmark","Fyns Storkreds","2. Odense Vest","Ubberud Kultur & Bevægelseshus",2231
+"516","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Dalumskolen",6966
+"517","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Fangel Forsamlingshus",732
+"518","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Fks-Hallen",8304
+"519","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Højby Skole",3898
+"520","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Rasmus Rask Skolen",3820
+"521","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Rosengårdskolen",5964
+"522","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Rådhuset",9754
+"523","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Sct. Knuds Gymnasium",4149
+"524","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Stenløse Forsamlingshus",2422
+"525","Sjælland-Syddanmark","Fyns Storkreds","3. Odense Syd","Tingløkkeskolen",4861
+"526","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Aarup",2561
+"527","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Assens",5382
+"528","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Brylle",1273
+"529","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Dreslette",632
+"530","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Ebberup",1307
+"531","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Flemløse",831
+"532","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Glamsbjerg",1957
+"533","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Haarby",2589
+"534","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Helnæs",189
+"535","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Jordløse",524
+"536","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Kerte",529
+"537","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Køng",750
+"538","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Nårup",365
+"539","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Orte",594
+"540","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Rørup",593
+"541","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Salbrovad",701
+"542","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Søllested",390
+"543","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Tommerup",1499
+"544","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Tommerup St",1776
+"545","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Turup",662
+"546","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Verninge",880
+"547","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Vissenbjerg",4496
+"548","Sjælland-Syddanmark","Fyns Storkreds","4. Assens","Ørsted",415
+"549","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Aulby",1072
+"550","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Baaring",1462
+"551","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Brenderup",1995
+"552","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Ejby",2255
+"553","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Fjelsted/Harndrup",1279
+"554","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Gelsted",2062
+"555","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Hyllehøj",1962
+"556","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Middelfart V",5102
+"557","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Middelfart Ø",5092
+"558","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Nørre Aaby",2811
+"559","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Strib",3355
+"560","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Bogense",3086
+"561","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Horsebæk",956
+"562","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Hårslev",993
+"563","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Klinte",744
+"564","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Kongslund",1264
+"565","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Krogsbølle",1558
+"566","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Løkkemark",994
+"567","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Morud",2007
+"568","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Otterup",3880
+"569","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Skovløkke",936
+"570","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Særslev",1171
+"571","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Søndersø",3157
+"572","Sjælland-Syddanmark","Fyns Storkreds","5. Middelfart","Veflinge",1104
+"573","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Kerteminde 1",3055
+"574","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Kerteminde 2",2052
+"575","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Langeskov",3406
+"576","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Marslev",1606
+"577","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Mesinge",1623
+"578","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Munkebo",4578
+"579","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Nymarken",1734
+"580","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Aunslev Forsamlingshus",1353
+"581","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Borgerforeningens Hus",5114
+"582","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Ellested Og Herrested",1002
+"583","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Ellinge",383
+"584","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Frørup Og Tårup",1077
+"585","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Langtved",699
+"586","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Langå, Svindinge Og Øksendrup",811
+"587","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Nyborghallen",6257
+"588","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Skellerup",453
+"589","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Ullerslev",2227
+"590","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Vindinge Forsamlingshus",2449
+"591","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Ørbæk 1",1408
+"592","Sjælland-Syddanmark","Fyns Storkreds","6. Nyborg","Ørbæk 2",898
+"593","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Bagenkop",794
+"594","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Hou",915
+"595","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Humble",1348
+"596","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Lejbølle",533
+"597","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Lindelse",968
+"598","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Rudkøbing",4108
+"599","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Strynø",138
+"600","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Tullebølle",1441
+"601","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Bjerreby",790
+"602","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Bregninge",3139
+"603","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Byen",11415
+"604","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Drejø",58
+"605","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Egense",1981
+"606","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Gudbjerg",968
+"607","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Gudme",1220
+"608","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Hesselager",1118
+"609","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Kirkeby",1016
+"610","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Landet",840
+"611","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Nordre",2643
+"612","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Ollerup",1598
+"613","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Oure",1450
+"614","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Skårup",2028
+"615","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Stenstrup",1964
+"616","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Thurø",2734
+"617","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Tved",2206
+"618","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","V.Skerninge",2162
+"619","Sjælland-Syddanmark","Fyns Storkreds","7. Svendborg","Østre",5106
+"620","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Allested-Vejle",1244
+"621","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Avernakø",102
+"622","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Brobyværk",1052
+"623","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Espe",1109
+"624","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Faaborg",6408
+"625","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Ferritslev",1402
+"626","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Gislev",1645
+"627","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Hillerslev",1099
+"628","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Horne",1554
+"629","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Korinth",1603
+"630","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Kværndrup",1785
+"631","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Lyø",85
+"632","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Nr. Lyndelse",2715
+"633","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Nørre Broby",1535
+"634","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Ringe",5656
+"635","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Ryslinge",1786
+"636","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Svanninge",1705
+"637","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Søllinge",838
+"638","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Vester Aaby",1384
+"639","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Vester Hæsinge",834
+"640","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Årslev",3198
+"641","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Marstal",2442
+"642","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Søby",917
+"643","Sjælland-Syddanmark","Fyns Storkreds","8. Faaborg","Ærøskøbing",1732
+"644","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Augustenborg",2943
+"645","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Biblioteket, Sønderborg",5694
+"646","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Broager",3417
+"647","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Dybbøl",4393
+"648","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Egen",2803
+"649","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Fynshav",1907
+"650","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Gråsten",5940
+"651","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Havnbjerg",2157
+"652","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Humlehøj, Sønderborg",6447
+"653","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Hørup",2472
+"654","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Kegnæs",392
+"655","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Kværs",681
+"656","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Nordborg",4454
+"657","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Sydals",1878
+"658","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Sønderskov, Sønderborg",5641
+"659","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Ullerup",1372
+"660","Sjælland-Syddanmark","Sydjyllands Storkreds","1. Sønderborg","Vester Sottrup",2368
+"661","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Aabenraa Midt",7060
+"662","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Aabenraa Nord",1934
+"663","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Aabenraa Syd",3016
+"664","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Bolderslev",1674
+"665","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Bylderup",1893
+"666","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Ensted",1722
+"667","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Felsted",1608
+"668","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Hellevad",651
+"669","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Hjordkær",1437
+"670","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Hovslund",646
+"671","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Kliplev",1650
+"672","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Kruså",3018
+"673","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Løjt",3321
+"674","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Padborg",3648
+"675","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Ravsted",658
+"676","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Rødekro",5156
+"677","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Tinglev",2570
+"678","Sjælland-Syddanmark","Sydjyllands Storkreds","2. Aabenraa","Varnæs",929
+"679","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Abild",829
+"680","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Agerskov",1585
+"681","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Arrild",544
+"682","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Ballum",538
+"683","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Bedsted",593
+"684","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Branderup",410
+"685","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Bredebro",1469
+"686","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Brøns",773
+"687","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Døstrup",507
+"688","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Hostrup",766
+"689","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Højer",1354
+"690","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Løgumkloster",2535
+"691","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Møgeltønder",870
+"692","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Nr. Løgum",986
+"693","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Rømø",454
+"694","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Sdr. Sejerslev",456
+"695","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Skærbæk",2851
+"696","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Toftlund",3082
+"697","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Tønder",6099
+"698","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Visby",429
+"699","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Vodder",505
+"700","Sjælland-Syddanmark","Sydjyllands Storkreds","3. Tønder","Øster Højst",676
+"701","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Bakkeskolen",4700
+"702","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Blåbjerggårdskolen",2968
+"703","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Boldesager",4824
+"704","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Esbjerg Rådhus",10040
+"705","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Kvaglund",2795
+"706","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Rørkjær",3434
+"707","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Skovbo Centeret",2261
+"708","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Sædding",5481
+"709","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Vitaskolen",3106
+"710","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Østerbycentret",3660
+"711","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Ådalskolen",2612
+"712","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Nordby",2277
+"713","Sjælland-Syddanmark","Sydjyllands Storkreds","4. Esbjerg By","Sønderho",258
+"714","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Bramming",7879
+"715","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Bryndum",2472
+"716","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Egebæk-Hviding",1489
+"717","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Gredstedbro",2069
+"718","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Guldager",1060
+"719","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Gørding",2681
+"720","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Hjerting",5700
+"721","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Høm",1228
+"722","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Mandø",33
+"723","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Ribe",8516
+"724","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Skads",1546
+"725","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Sønderris",2813
+"726","Sjælland-Syddanmark","Sydjyllands Storkreds","5. Esbjerg Omegn","Tjæreborg",2516
+"727","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Agerbæk",1236
+"728","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Alslev",1130
+"729","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Ansager",1386
+"730","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Billum",569
+"731","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Blåvand",437
+"732","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Fåborg",508
+"733","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Henne",587
+"734","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Horne",842
+"735","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Janderup",996
+"736","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Lunde",951
+"737","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Nordenskov",1009
+"738","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Næsbjerg",1062
+"739","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Nørre Nebel",1765
+"740","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Oksbøl",2783
+"741","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Outrup",1171
+"742","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Sig",840
+"743","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Skovlund",611
+"744","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Starup",810
+"745","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Tinghøj",649
+"746","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Tistrup",1494
+"747","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Varde By",10604
+"748","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Ølgod",4428
+"749","Sjælland-Syddanmark","Sydjyllands Storkreds","6. Varde","Årre",896
+"750","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Billund",4732
+"751","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Filskov",797
+"752","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Grindsted",8041
+"753","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Hejnsvig",1519
+"754","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Sdr. Omme",1682
+"755","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","St./Krogager",704
+"756","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Vorbasse",1587
+"757","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Andst",1064
+"758","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Askov-Malt",2182
+"759","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Brørup",4148
+"760","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Bække",1579
+"761","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Føvling",853
+"762","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Gesten",1099
+"763","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Glejbjerg",935
+"764","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Holsted",2660
+"765","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Hovborg",422
+"766","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Jels",1905
+"767","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Københoved",340
+"768","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Lindknud",649
+"769","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Lintrup",544
+"770","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Læborg",518
+"771","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Rødding",2658
+"772","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Sdr. Hygum",683
+"773","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Skodborg",1319
+"774","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Vejen",6683
+"775","Sjælland-Syddanmark","Sydjyllands Storkreds","7. Vejen","Øster Lindet",611
+"776","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Bredsten Nord",1626
+"777","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Engum Nord",920
+"778","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Gadbjerg Nord",950
+"779","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Give Nord",4462
+"780","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Givskud Nord",879
+"781","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Grejs Nord",1045
+"782","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Grejsdalshallen Nord",1771
+"783","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Grønbjerg Nord",789
+"784","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Hældagerhallen Nord",6296
+"785","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Jelling Nord",3101
+"786","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Kollerup-Sandvad Nord",1281
+"787","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Lindeballe Nord",369
+"788","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Nørremarkshallen Nord",4454
+"789","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Nørup Nord",1220
+"790","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Petersmindehallen Nord",3047
+"791","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Randbøl Nord",1156
+"792","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Skibethallen Nord",1643
+"793","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Thyregod Nord",1733
+"794","Sjælland-Syddanmark","Sydjyllands Storkreds","8. Vejle Nord","Øster Nykirke Nord",1244
+"795","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Brejning Syd",2314
+"796","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Børkop Syd",4268
+"797","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Csv Syd",2306
+"798","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Dgi-Huset Syd",10944
+"799","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Egtved Syd",2701
+"800","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Gårslev Syd",1593
+"801","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Jerlev Syd",744
+"802","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Løget Kirke Syd",2070
+"803","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Multihuset Højen Syd",934
+"804","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Mølholmhallen Syd",2624
+"805","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Rødkilde Gymnasium Syd",3246
+"806","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Smidstrup Syd",1710
+"807","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Vindinghallen Syd",3590
+"808","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Ødsted Syd",1428
+"809","Sjælland-Syddanmark","Sydjyllands Storkreds","9. Vejle Syd","Øster Starup Syd",1485
+"810","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Bredstrup-Pjedsted",1133
+"811","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Bøgeskov",1438
+"812","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Erritsø",7217
+"813","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Gymnasiet",10830
+"814","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Herslev",585
+"815","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Indre By",4690
+"816","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Søndermarken",7486
+"817","Sjælland-Syddanmark","Sydjyllands Storkreds","10. Fredericia","Taulov",4013
+"818","Sjælland-Syddanmark","Sydjyllands Storkreds","11. Kolding Nord","Alminde-Viuf/Vester Nebel",3491
+"819","Sjælland-Syddanmark","Sydjyllands Storkreds","11. Kolding Nord","Bramdrupdam",4067
+"820","Sjælland-Syddanmark","Sydjyllands Storkreds","11. Kolding Nord","Centrum Nord",5605
+"821","Sjælland-Syddanmark","Sydjyllands Storkreds","11. Kolding Nord","Lunderskov/Jordrup",4170
+"822","Sjælland-Syddanmark","Sydjyllands Storkreds","11. Kolding Nord","Nordbyen",3641
+"823","Sjælland-Syddanmark","Sydjyllands Storkreds","11. Kolding Nord","Strandhuse/Nr. Bjert/ Eltang",5898
+"824","Sjælland-Syddanmark","Sydjyllands Storkreds","11. Kolding Nord","Vestbyen",4214
+"825","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","Centrum Syd",4559
+"826","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","Chr.Feld/Stepping/Taps/Hejls",5051
+"827","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","Dalby/Tved/Rebæk",3205
+"828","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","S Bjert/S Stenderup/Vejstrup",3328
+"829","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","Seest",4388
+"830","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","Sydbyen",6508
+"831","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","Vamdrup/Hjarup/Ødis",5459
+"832","Sjælland-Syddanmark","Sydjyllands Storkreds","12. Kolding Syd","Vonsild",2140
+"833","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Aarø",144
+"834","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Aastrup",1219
+"835","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Arnum",692
+"836","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Bevtoft",974
+"837","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Fjelstrup",970
+"838","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Fole",288
+"839","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Gram",2294
+"840","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Haderslev Midtby",3376
+"841","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Haderslev Nord",2400
+"842","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Haderslev Syd",2365
+"843","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Haderslev Syd-Vest",2635
+"844","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Haderslev Vest",3090
+"845","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Haderslev Øst",1831
+"846","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Halk",535
+"847","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Hammelev",1153
+"848","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Hoptrup",960
+"849","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Jegerup",409
+"850","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Kelstrup",386
+"851","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Marstrup",658
+"852","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Moltrup",403
+"853","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Nustrup",875
+"854","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Oksenvad",452
+"855","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Over Jerstal",1024
+"856","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Simmersted",541
+"857","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Skrydstrup",794
+"858","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Sommersted",1086
+"859","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Starup",2070
+"860","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Tiset",221
+"861","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Vedsted",639
+"862","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Vilstrup",550
+"863","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Vojens Vest",2570
+"864","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Vojens Øst",2747
+"865","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Vonsbæk",316
+"866","Sjælland-Syddanmark","Sydjyllands Storkreds","13. Haderslev","Øsby",1116
+"867","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Beder Skole",3431
+"868","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Frederiksbjerg Hallerne",13592
+"869","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Kragelundskolen,Højbjerg",4180
+"870","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Lokalcenter Fr.Bjerg/Langenæs",6322
+"871","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Malling Skole",3796
+"872","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Mårslet Skole",3878
+"873","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Rundhøjhallen,Holme",6541
+"874","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Skåde Skole",4677
+"875","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Solbjergskolen",3787
+"876","Midtjylland-Nordjylland","Østjyllands Storkreds","1. Århus Syd","Tranbjerg Skole",6609
+"877","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Borum Forsamlingshus",536
+"878","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Brabrand Hallen,Brabrand",5785
+"879","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Globus 1, Brabrand",4899
+"880","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Hasselager Hallen",5002
+"881","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Højvangskolen,Stavtrup",3589
+"882","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Næshøj Hallen, Harlev",3324
+"883","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Ormslev Præstegård",452
+"884","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Rosenvangskolen,Viby J",5430
+"885","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Sabro-Korsvejskolen,Sabro",2590
+"886","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Skjoldhøjskolen",4550
+"887","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Søndervangskolen,Viby J",2499
+"888","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Tilst Skole,Tilst",5873
+"889","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Viby Hallen",8808
+"890","Midtjylland-Nordjylland","Østjyllands Storkreds","2. Århus Vest","Åby Skole",5034
+"891","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Bjørnshøjcentret,Trige",2222
+"892","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Center -10 (Frydenlundskolen)",8842
+"893","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Gammelgårdskolen,Åbyhøj",3130
+"894","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Hasle Skole",6078
+"895","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Hårup Hallen",1420
+"896","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Katrinebjergskolen",4789
+"897","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Lisbjergskolen",1232
+"898","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Lystrup Skole",8125
+"899","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Møllevangskolen",10823
+"900","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Skovvangskolen",9752
+"901","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Spørring Fælleshus",733
+"902","Midtjylland-Nordjylland","Østjyllands Storkreds","3. Århus Nord","Vorrevangskolen",3167
+"903","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Bellevue-Hallen",7592
+"904","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Ellevangskolen,Risskov",5928
+"905","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Rådhushallen",13813
+"906","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Samsøgades Skole",14138
+"907","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Skæring Skole",3716
+"908","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Skødstrup Hallen",6026
+"909","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Sølystskolen,Egå",3687
+"910","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Vejlby Risskov Hallen",7890
+"911","Midtjylland-Nordjylland","Østjyllands Storkreds","4. Århus Øst","Virupskolen,Hjortshøj",2608
+"912","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Allingåbro",1994
+"913","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Anholt Skole",120
+"914","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Auning",3148
+"915","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Glesborg",3061
+"916","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Grenaa Idrætscenter",5556
+"917","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Kulturhuset Pavillonen",7843
+"918","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Kulturhuset Stationen",1983
+"919","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Vivild",1408
+"920","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Ørsted",2509
+"921","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Ørum",1703
+"922","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Ebeltoft",6894
+"923","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Hornslet",5336
+"924","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Kolind",2554
+"925","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Mols",2993
+"926","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Mørke",2685
+"927","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Ryomgård",3525
+"928","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Rønde",5752
+"929","Midtjylland-Nordjylland","Østjyllands Storkreds","5. Djurs","Tirstrup",1731
+"930","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Blicherskolen",1993
+"931","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Gjerlev Enslev Skole",1086
+"932","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Hald Forsamlingshus",1195
+"933","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Havndalhallen",1197
+"934","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Hornbækhallen",2935
+"935","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Korshøjskolen",1982
+"936","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Kultur-Aktivitetshuset Gassum",665
+"937","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Nyvangsskolen",4204
+"938","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Nørrevangsskolen",3861
+"939","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Rismølleskolen",3686
+"940","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Rytterskolen",2039
+"941","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Råby Forsamlingshus",925
+"942","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Vestervangsskolen",5228
+"943","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Øster Tørslev Fritidslokaler",1169
+"944","Midtjylland-Nordjylland","Østjyllands Storkreds","6. Randers Nord","Østervangsskolen",3088
+"945","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Asferg Forsamlingshus",881
+"946","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Assentofthallen",2986
+"947","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Fritidscentret",4031
+"948","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Hadsundvejens Skole",4368
+"949","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Hobrovejens Skole",3219
+"950","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Jebjerg Forsamlingshus",651
+"951","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Kristrup Skole",3352
+"952","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Kulturhuset Langå",2363
+"953","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Paderup Gymnasium",1620
+"954","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Purhushallen",1028
+"955","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Romalt Aktivitetshal",2459
+"956","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Stevnstrup Forsamlingshus",1931
+"957","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Søndermarkskolen",6036
+"958","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Uggelhuse Forsamlingshus",762
+"959","Midtjylland-Nordjylland","Østjyllands Storkreds","7. Randers Syd","Ø. Bjerregrav Forsamlingshus",1853
+"960","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Foldby",1184
+"961","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Hadbjerg",1566
+"962","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Hadsten Nord",4024
+"963","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Hadsten Syd",2780
+"964","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Haldum-Hinnerup/Vitten",3159
+"965","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Hammel Nord",5620
+"966","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Hammel Syd",1504
+"967","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Lading",818
+"968","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Laurbjerg/Houlbjerg",1519
+"969","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Rønbæk/Grundfør",3054
+"970","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Søften",2051
+"971","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Thorsø/Haurum/Sall",2738
+"972","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Ulstrup",3060
+"973","Midtjylland-Nordjylland","Østjyllands Storkreds","8. Favrskov","Voldum",905
+"974","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Alrø",114
+"975","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Gylling",826
+"976","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Hou, Gosmer - Halling",1533
+"977","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Hundslund",972
+"978","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Odder",9129
+"979","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Randlev - Bjerager",996
+"980","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Saksild - Nølev",1281
+"981","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Torrild",327
+"982","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Tunø",97
+"983","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Ørting-Falling",1004
+"984","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Nordby",334
+"985","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Tranebjerg",2595
+"986","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Ejer Bavnehøj",1744
+"987","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Galten",4045
+"988","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Gl. Rye",1284
+"989","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Hørning",5787
+"990","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Låsby",2592
+"991","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Morten Børup",7249
+"992","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Niels Ebbesen",4849
+"993","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Ry",4981
+"994","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Skovby",3321
+"995","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Stilling",3135
+"996","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Stjær",1534
+"997","Midtjylland-Nordjylland","Østjyllands Storkreds","9. Skanderborg","Virring",1567
+"998","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Brædstrup",3523
+"999","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Dagnæs",6951
+"1000","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Egebjerg",2069
+"1001","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Endelave",151
+"1002","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Forum",4344
+"1003","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Gedved",1945
+"1004","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Hatting",2003
+"1005","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Hovedgård",2498
+"1006","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Højvangen",2685
+"1007","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Lund",1928
+"1008","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Midtbyen",7238
+"1009","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Nim",1347
+"1010","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Sdr.Vissing",845
+"1011","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Sejet",399
+"1012","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Stensballe",4620
+"1013","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Sundparken",1276
+"1014","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Sønderbro",4600
+"1015","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Søvind",1374
+"1016","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Torsted",4152
+"1017","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Tønning-Træden",537
+"1018","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Vestbyen",4585
+"1019","Midtjylland-Nordjylland","Østjyllands Storkreds","10. Horsens","Østbirk",2511
+"1020","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Aale",607
+"1021","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","As",595
+"1022","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Barrit",1260
+"1023","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Bjerre",1072
+"1024","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Daugård Og Ørum Sogne",1186
+"1025","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Glud",1707
+"1026","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Hedensted, St.Dalby Og Urlev",6085
+"1027","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Hjarnø",94
+"1028","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Hjortsvang",348
+"1029","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Hornborg",586
+"1030","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Hornsyld",1494
+"1031","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Hvirring",405
+"1032","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Juelsminde/Klakring",3334
+"1033","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Korning Sogn",455
+"1034","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Lindved",1364
+"1035","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Løsning Sogn",3037
+"1036","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Rask Mølle",1063
+"1037","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Rårup",1147
+"1038","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Stouby",1247
+"1039","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Tørring",2237
+"1040","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Uldum",1184
+"1041","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Ø. Snede Sogn",1542
+"1042","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Ølholm",733
+"1043","Midtjylland-Nordjylland","Østjyllands Storkreds","11. Hedensted","Ølsted Og Eriknauer-Området",993
+"1044","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Bøvling",1090
+"1045","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Flynder",1084
+"1046","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Harboøre",1424
+"1047","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Klinkby",1602
+"1048","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Lemvig",5385
+"1049","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Nørre Nissum",1941
+"1050","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Ramme",1531
+"1051","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Thyborøn",1615
+"1052","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Bremdal",1487
+"1053","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Gimsing",1664
+"1054","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Hjerm",1288
+"1055","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Humlum",1343
+"1056","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Hvidbjerg",2447
+"1057","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Langhøj",1652
+"1058","Midtjylland-Nordjylland","Vestjyllands Storkreds","1. Struer","Struer",6231
+"1059","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Aakjær",6188
+"1060","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Balling",1305
+"1061","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Breum",1391
+"1062","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Brårup",5284
+"1063","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Durup",1107
+"1064","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Fur",655
+"1065","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Glyngøre",1547
+"1066","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Hem",730
+"1067","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Højslev",3010
+"1068","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Håsum-Ramsing",590
+"1069","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Jebjerg-Lyby",1269
+"1070","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Lem-Vejby",739
+"1071","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Lihme",564
+"1072","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Oddense - Otting",701
+"1073","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Roslev",1765
+"1074","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Rødding",1116
+"1075","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Rønbjerg",639
+"1076","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Selde",1077
+"1077","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Skivehus",4924
+"1078","Midtjylland-Nordjylland","Vestjyllands Storkreds","2. Skive","Ørslevkloster",1036
+"1079","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Frederiks",2431
+"1080","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Hald Ege",2501
+"1081","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Karup",2622
+"1082","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Løgstrup",2608
+"1083","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Mønsted",1793
+"1084","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Stoholm",2513
+"1085","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Viborg",21697
+"1086","Midtjylland-Nordjylland","Vestjyllands Storkreds","3. Viborg Vest","Vridsted",1669
+"1087","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Bjerringbro Nord",5341
+"1088","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Bjerringbro Syd",2141
+"1089","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Hammershøj",1788
+"1090","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Møldrup",3513
+"1091","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Overlund",9274
+"1092","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Rødding",2620
+"1093","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Rødkærsbro",2363
+"1094","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Skals",2772
+"1095","Midtjylland-Nordjylland","Vestjyllands Storkreds","4. Viborg Øst","Ørum",2369
+"1096","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Ans",2535
+"1097","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Funder",1787
+"1098","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Fårvang",1450
+"1099","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Gjern",1462
+"1100","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Grauballe",949
+"1101","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Gødvad",4441
+"1102","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Kjellerup",4190
+"1103","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Kragelund",943
+"1104","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Lemming",1007
+"1105","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Linå",1095
+"1106","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Resenbro",1391
+"1107","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Sejling",737
+"1108","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Sejs",3052
+"1109","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Sjørslev",801
+"1110","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Sorring",1211
+"1111","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Thorning",2155
+"1112","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Vinderslev",1001
+"1113","Midtjylland-Nordjylland","Vestjyllands Storkreds","5. Silkeborg Nord","Voel",1254
+"1114","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Balle",2924
+"1115","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Bryrup",1617
+"1116","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Buskelund",3454
+"1117","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Gjessø",866
+"1118","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Hjøllund",389
+"1119","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Jysk Arena",5028
+"1120","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Langsøskolen",2087
+"1121","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Lysbro",2012
+"1122","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Nordre",3378
+"1123","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Them",2649
+"1124","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Vestergadehallen",7527
+"1125","Midtjylland-Nordjylland","Vestjyllands Storkreds","6. Silkeborg Syd","Virklund",2484
+"1126","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Agerskov-Stubkjær",300
+"1127","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Blåhøj",690
+"1128","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Bording",2347
+"1129","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Brande By",5360
+"1130","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Drantum",236
+"1131","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Ejstrup",1787
+"1132","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Engesvang",1796
+"1133","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Gludsted",426
+"1134","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Hampen",402
+"1135","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Ikast",11765
+"1136","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Isenvad",752
+"1137","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Klovborg",783
+"1138","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Nørre-Snede",1840
+"1139","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Pårup",369
+"1140","Midtjylland-Nordjylland","Vestjyllands Storkreds","7. Ikast","Uhre",336
+"1141","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Arnborg",1024
+"1142","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Herning",19390
+"1143","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Kibæk",2453
+"1144","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Kølkær",746
+"1145","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Lind",4203
+"1146","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Sdr. Felding",1770
+"1147","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Skarrild",716
+"1148","Midtjylland-Nordjylland","Vestjyllands Storkreds","8. Herning Syd","Studsgård",589
+"1149","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Aulum",3014
+"1150","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Feldborg",584
+"1151","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Gullestrup",1224
+"1152","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Haderup",879
+"1153","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Hammerum",6081
+"1154","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Hodsager",524
+"1155","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Ilskov",691
+"1156","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Simmelkær",355
+"1157","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Sinding",670
+"1158","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Skibbild/Nøvling",725
+"1159","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Snejbjerg",3477
+"1160","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Sunds",3382
+"1161","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Timring",961
+"1162","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Tjørring",4108
+"1163","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Vildbjerg",3166
+"1164","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Vind",380
+"1165","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Vinding",1220
+"1166","Midtjylland-Nordjylland","Vestjyllands Storkreds","9. Herning Nord","Ørnhøj",850
+"1167","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Birkelundskolen",9989
+"1168","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Mejdal",3412
+"1169","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Mejrup",2890
+"1170","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Musikteatret",14014
+"1171","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Sdr. Nissum",887
+"1172","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Sevel",1506
+"1173","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Skave",1626
+"1174","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Ulfborg",2515
+"1175","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Vemb",1551
+"1176","Midtjylland-Nordjylland","Vestjyllands Storkreds","10. Holstebro","Vinderup",4258
+"1177","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Bork",645
+"1178","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Borris",952
+"1179","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Faster",595
+"1180","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Hee",1098
+"1181","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Holmsland",1037
+"1182","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Hoven",432
+"1183","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Hvide Sande",2510
+"1184","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Højmark",564
+"1185","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Lem",1083
+"1186","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Lyne",747
+"1187","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Lønborg",1036
+"1188","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Nr.Vium",485
+"1189","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Ringkøbing",6965
+"1190","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Rækker Mølle",1150
+"1191","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Skjern",5918
+"1192","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Spjald",2181
+"1193","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Stadil",592
+"1194","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Stauning",862
+"1195","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Tarm",3762
+"1196","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Tim",1139
+"1197","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Troldhede",581
+"1198","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Velling",928
+"1199","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Videbæk",3732
+"1200","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Vorgod-Barde",1844
+"1201","Midtjylland-Nordjylland","Vestjyllands Storkreds","11. Ringkøbing","Ølstrup",615
+"1202","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Brønden",352
+"1203","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Dybvad",894
+"1204","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Elling",1283
+"1205","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Frederikshavn Midt",8002
+"1206","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Frederikshavn Nord",4836
+"1207","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Frederikshavn Syd",5526
+"1208","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Gærum",1436
+"1209","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Hulsig",119
+"1210","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Hørby",674
+"1211","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Jerup",740
+"1212","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Lyngså",454
+"1213","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Præstbro",366
+"1214","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Ravnshøj",1495
+"1215","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Skagen",6454
+"1216","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Strandby",1933
+"1217","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Sæby",7166
+"1218","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Thorshøj",610
+"1219","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Understed",434
+"1220","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Voerså",624
+"1221","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Volstrup",545
+"1222","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Østervrå",1410
+"1223","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Ålbæk",1459
+"1224","Midtjylland-Nordjylland","Nordjyllands Storkreds","1. Frederikshavn","Læsø",1490
+"1225","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Astrup",895
+"1226","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Bindslev",1299
+"1227","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Bjergby-Mygdal",1282
+"1228","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Hirtshals",4444
+"1229","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Hjørring - Centrum",8756
+"1230","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Hjørring - Nord",3805
+"1231","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Hjørring - Syd",4643
+"1232","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Hjørring - Vest",2767
+"1233","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Horne",1458
+"1234","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Hundelev",873
+"1235","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Lendum",1177
+"1236","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Løkken",2312
+"1237","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Sindal",2833
+"1238","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Skallerup",1276
+"1239","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Taars",2641
+"1240","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Tolne",997
+"1241","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Tornby",1380
+"1242","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Tversted",1295
+"1243","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Ugilt",808
+"1244","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Vrejlev-Hæstrup",1419
+"1245","Midtjylland-Nordjylland","Nordjyllands Storkreds","2. Hjørring","Vrå",3229
+"1246","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Agersted",695
+"1247","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Asaa",1428
+"1248","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Brønderslev",9468
+"1249","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Dronninglund",3825
+"1250","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Flauenskjold",1009
+"1251","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Hallund",511
+"1252","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Hjallerup",3187
+"1253","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Jerslev",1883
+"1254","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Klokkerholm",1481
+"1255","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Serritslev",664
+"1256","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Stenum",488
+"1257","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Thise",913
+"1258","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Ø. Brønderslev",1182
+"1259","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Aabybro",4465
+"1260","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Arentsminde",526
+"1261","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Biersted",1455
+"1262","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Brovst",2296
+"1263","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Fjerritslev",3280
+"1264","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Gjøl",935
+"1265","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Halvrimmen",1091
+"1266","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Hune",1328
+"1267","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Ingstrup",517
+"1268","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Kaas",2249
+"1269","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Nørhalne",1120
+"1270","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Pandrup",2489
+"1271","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Saltum",993
+"1272","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Skovsgård",1257
+"1273","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Thorup",1037
+"1274","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Tranum",861
+"1275","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Trekroner",964
+"1276","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","V. Hjermitslev",478
+"1277","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Vedsted",1014
+"1278","Midtjylland-Nordjylland","Nordjyllands Storkreds","3. Brønderslev","Ørebro",784
+"1279","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Bjergby",306
+"1280","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Erslev",513
+"1281","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Flade",494
+"1282","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Fredsø",659
+"1283","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Frøslev",460
+"1284","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Karby",691
+"1285","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Nykøbing",7197
+"1286","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Redsted",486
+"1287","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Sejerslev",632
+"1288","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Solbjerg",324
+"1289","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Sundby",468
+"1290","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Thorup",303
+"1291","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Tæbring",471
+"1292","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Tødsø",660
+"1293","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Vils",665
+"1294","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Ø. Assels",512
+"1295","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Ø. Jølby",715
+"1296","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Ørding",497
+"1297","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Bedsted",1636
+"1298","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Frøstrup",839
+"1299","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Hanstholm",1509
+"1300","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Harring-Stagstrup",918
+"1301","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Hillerslev-Kåstrup",738
+"1302","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Hundborg-Jannerup",748
+"1303","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Hurup",2619
+"1304","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Klitmøller",665
+"1305","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Koldby",1407
+"1306","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Lild",225
+"1307","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Nors-Tved",1201
+"1308","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Ræhr/Vigsø",699
+"1309","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Sennels",964
+"1310","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Sjørring-Thorsted",1076
+"1311","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Skinnerup, V Og Ø Vandet",458
+"1312","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Skjoldborg-Kallerup",473
+"1313","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Snedsted-Nørhå",1548
+"1314","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Sønderhå-Hørsted",299
+"1315","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Thisted By",7113
+"1316","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Thisted Landsogn",3123
+"1317","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Vang-Tvorup",317
+"1318","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Vestervig",1326
+"1319","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Vorupør",488
+"1320","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Ydby",898
+"1321","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Øsløs, Vesløs Og Arup",871
+"1322","Midtjylland-Nordjylland","Nordjyllands Storkreds","4. Thisted","Østerild, Hunstrup",820
+"1323","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Blenstrup",1170
+"1324","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Bælum",1230
+"1325","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Haverslev",982
+"1326","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Nørager",2205
+"1327","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Ravnkilde",696
+"1328","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Skørping",3141
+"1329","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Støvring",6054
+"1330","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Suldrup",2033
+"1331","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Terndrup",1758
+"1332","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Veggerby",522
+"1333","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Øster Hornum",1410
+"1334","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Aalestrup",3034
+"1335","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Aars",6840
+"1336","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Farsø",3582
+"1337","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Gedsted",1427
+"1338","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Gislum-Vognsild",870
+"1339","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Hornum-Ulstrup",1348
+"1340","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Hvalpsund",1293
+"1341","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Løgstør",3962
+"1342","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Overlade",762
+"1343","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Ranum",1416
+"1344","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Salling",1051
+"1345","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Skivum-Giver",685
+"1346","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Strandby",622
+"1347","Midtjylland-Nordjylland","Nordjyllands Storkreds","5. Himmerland","Vester Hornum",828
+"1348","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Als",1961
+"1349","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Arden",2876
+"1350","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Assens",1838
+"1351","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Hadsund",5252
+"1352","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Hobro",7980
+"1353","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Hørby",2630
+"1354","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Mariager",3146
+"1355","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Onsild",1717
+"1356","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Valsgaard",1646
+"1357","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Vebbestrup",1789
+"1358","Midtjylland-Nordjylland","Nordjyllands Storkreds","6. Mariagerfjord","Veddum-Skelund",875
+"1359","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Båndby - Hallen",3764
+"1360","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Gigantium",9284
+"1361","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Gistrup Skoles Idrætshal",4376
+"1362","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Gughallen",6389
+"1363","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Idrætscentret Kongerslev",1597
+"1364","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Klaruphallen",3465
+"1365","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Mellervangskolens Idrætshal",3068
+"1366","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Mou Hotel",1970
+"1367","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Sønderbroskolen",8879
+"1368","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Tornhøjskolen, Hallen",5334
+"1369","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Vejgaard Østre Skole",6121
+"1370","Midtjylland-Nordjylland","Nordjyllands Storkreds","7. Aalborg Øst","Vejgaardhallen",5231
+"1371","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Farstruphallen",1598
+"1372","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Ferslev Skolehal",2527
+"1373","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Frejlev Skoles Idrætshal",3839
+"1374","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Hallen Ved Skalborggård",3992
+"1375","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Haraldslund",6393
+"1376","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Kfum - Hallen",9443
+"1377","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Kærbyskolen",6321
+"1378","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Nibe Hallen",4935
+"1379","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Svenstruphallen",5272
+"1380","Midtjylland-Nordjylland","Nordjyllands Storkreds","8. Aalborg Vest","Vesterkærets Skole",3998
+"1381","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Aalborghallen",10601
+"1382","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Gl. Lindholm Skole, Kulturhus",9383
+"1383","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Hals Skole",3640
+"1384","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Løvvanghallen",7933
+"1385","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Sulsted Skolehal",5135
+"1386","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Ulstedhallen",1095
+"1387","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Vadumhallen",2188
+"1388","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Vester Hassing Hallen",4347
+"1389","Midtjylland-Nordjylland","Nordjyllands Storkreds","9. Aalborg Nord","Vodskov Kultur & Idrætscenter",5362
