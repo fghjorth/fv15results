@@ -131,4 +131,42 @@ for (i in 1:length(level3links)){
 setwd("~/GitHub/fv15results")
 write.csv(level4,"valgsteder.csv",quote=T)
 
+#get results from 2011
+#gather all files in 1 df
+csvs<-list.files(path="../fv11-valgsteder",pattern=".csv")[2:11]
+allres<-data.frame(unit=NA,fv11_allvotes=NA,fv11_sd=NA,fv11_rv=NA,fv11_kf=NA,fv11_sf=NA,fv11_la=NA,fv11_kd=NA,fv11_df=NA,fv11_ve=NA,fv11_el=NA)
+for (f in csvs){
+  dat<-read.csv(paste("../fv11-valgsteder/",f,sep=""),sep=";",skip=5,header=F,fileEncoding="latin1")[,2:12]
+  names(dat)<-names(allres)
+  dat[,1]<-iconv(dat[,1],from="latin1",to="UTF-8",sub="X")
+  allres<-rbind(allres,dat)
+}
+fv11_allres<-allres[2:nrow(allres),]
+rm(allres,f,dat,csvs)
 
+#get level 3 results
+fv11_level3<-slice(fv11_allres,which(str_detect(fv11_allres$unit,"OPSTILLINGSKREDS")))
+fv11_level3$unit<- fv11_level3$unit %>%
+  gsub(" OPSTILLINGSKREDS","",.) %>%
+  tolower() %>%
+  gsub("ã\u0086","ae",.) %>%
+  gsub("ã\u0098","oe",.) %>%
+  gsub("ã\u0085","aa",.)
+
+#merge into fv15 df
+level3$unit <- level3$navn %>%
+  tolower() %>%
+  gsub("æ","ae",.) %>%
+  gsub("ø","oe",.) %>%
+  gsub("å","aa",.)
+
+level3<-left_join(level3,fv11_level3,by="unit",copy=T)
+
+#fix small typos
+for (i in 1:nrow(level3)){
+  if (!is.na(level3$fv11_allvotes[i]) & level3$pop[i]<level3$fv11_allvotes[i]){
+    level3$pop[i]<-10*level3$pop[i]
+  }
+}
+
+hist(level3$fv11_allvotes/level3$pop)
