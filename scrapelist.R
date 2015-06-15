@@ -169,4 +169,12 @@ for (i in 1:nrow(level3)){
   }
 }
 
-hist(level3$fv11_allvotes/level3$pop)
+#create summary variables for comparison
+level3out <- level3 %>%
+  mutate(fv11_redvotes=fv11_sd+fv11_rv+fv11_sf+fv11_el,
+         fv11_redshare=fv11_redvotes/fv11_allvotes,
+         fv15_redshare=NA)
+
+sum(level3out$fv11_redvotes,na.rm=T)/sum(level3out$fv11_allvotes,na.rm=T)
+
+write.csv(level3out,file="level3out.csv")
