@@ -24,13 +24,99 @@ level1links<-paste(basepath,"vaelgertalHL.htm",sep="") %>%
 level1$url<-c(level1links,NA)
 
 #storkredse
-for (i in 1:3){
-  tmp<-level1$url[i] %>%
+level2links<-rep(NA,10)
+
+for (i in 1:length(level2links)){
+#   level2links[i]<-level1$url[1] %>%
+#     html() %>%
+#     html_nodes(.,"table") %>%
+#     extract(3) %>%
+#     html_nodes(.,"div") %>%
+#     extract(i+7) %>%
+#     html_node(.,"a") %>%
+#     html_attr(.,"href") %>%
+  level2links[i]<-paste("http://www.dst.dk/valg/Valg1487635/valgopgmid/valgopgStor",i+9,".htm",sep="")
+}
+
+level2links
+
+#opstillingskredse
+#storkredse
+level3links<-rep(NA,92)
+for (i in 1:length(level3links)){
+  #   level2links[i]<-level1$url[1] %>%
+  #     html() %>%
+  #     html_nodes(.,"table") %>%
+  #     extract(3) %>%
+  #     html_nodes(.,"div") %>%
+  #     extract(i+7) %>%
+  #     html_node(.,"a") %>%
+  #     html_attr(.,"href") %>%
+  level3links[i]<-paste("http://www.dst.dk/valg/Valg1487635/valgopgmid/valgopgOpst",i+19,".htm",sep="")
+}
+
+level3links[1] %>%
+  html()
+
+%>%
+  html_nodes(.,"table") %>%
+  extract(5) %>%
+  html_table(.,fill=T,header=T)
+
+
+node(.,"td")
+
+
+%>%
+  unlist()
+
+
+%>%
+  html_attrs(.,"vaelgeropg_parti")
+
+%>%
+  html_
+
+
+%>%
+  html_table()
+
+
+for (i in 1:length(level2links)){
+  tmp<-level2links[i] %>%
     html() %>%
-    html_nodes(.,"table") %>%
-    extract(4) %>%
-    html_table() %>%
-    as.data.frame() %>%
+    html_nodes(.,"a") %>%
+    html_attr(.,"href") %>%
+    extract(which(str_detect(.,"Opst"))) %>%
+    paste(basepath,.,sep="")
+  if (i==1){
+    level3links<-tmp
+  }
+  if (i>1){
+    level3links<-c(level3links,tmp)
+  }
+}
+
+
+  
+http://www.dst.dk/valg/Valg1487635/valgopgmid/valgopgOpst20.htm
+
+for (i in 1:3){
+  tmp<-
+    
+
+  
+  %>%
+    html_nodes(.,"a")
+    
+    html_attrs(.,"href")
+  %>%
+    html_table()
+  
+  %>%
+    as.data.frame()
+  
+  %>%
     transmute(region=level1$name[i],name=X1,pop=as.numeric(gsub("\\.","",X2))) %>%
     slice(-length(name))
   if (i==1){
