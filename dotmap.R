@@ -1,4 +1,3 @@
-setwd("~/GitHub/fv15results")
 require(ggplot2)
 require(maptools)
 require(ggmap)
@@ -9,8 +8,10 @@ require(dplyr)
 
 #read in map data
 #dk<-readOGR(dsn="afstemningssteder",layer="afstemningssteder")
-dk<-readOGR(dsn="shapefilesimple",layer="simpelt")
+setwd("/Users/frederikhjorth/Dropbox/Data")
+dk<-readOGR(dsn="Afstemningsomraader",layer="Afstemningsomraader")
 
+setwd("~/GitHub/fv15results")
 #prepare merge in data
 dk.df<-data.frame(id=rownames(dk@data),opstilnav=dk@data$OpstilNav,afstemnav=dk@data$AfstemNav)
 
@@ -59,16 +60,16 @@ afstemresr<-afstemres %>%
   mutate(avotes=A,
          vvotes=V,
          ovotes=O,
-         redvotes=A+B+F+Ø+Å,
-         bluevotes=C+I+K+O+V,
-         redshare=redvotes/(redvotes+bluevotes)) %>%
-  select(opst2,afst2,avotes,vvotes,ovotes,redvotes,bluevotes,redshare)
+         pinkvotes=B+F+Ø+Å,
+         lightbluevotes=C+I+K+O,
+         redshare=(avotes+pinkvotes)/(avotes+pinkvotes+vvotes+lightbluevotes)) %>%
+  select(opst2,afst2,avotes,vvotes,ovotes,pinkvotes,lightbluevotes,redshare)
 
 #check which districts are mismatched
 dkmerged<-merge(dk.df,afstemresr,by=c("opst2","afst2"),all.x=T,all.y=T)
-dkmerged<-subset(dkmerged, is.na(afstemnav) | is.na(redvotes))
+dkmismerged<-subset(dkmerged, is.na(afstemnav) | is.na(avotes))
 
-dkmerged$afst2 %>%
+dkmismerged$afst2 %>%
   table() %>%
   as.data.frame() %>%
   arrange(desc(Freq)) %>%
@@ -115,18 +116,23 @@ afstemresr$afst2<-afstemresr$afst2 %>%
   gsub("kroggaardskolen","kroggaardsskolen",.) %>%
   gsub("paarup hallen","paarup forsamlingshus",.) %>%
   gsub("ringkoebing","ringkoebing by",.) %>%
+  gsub("bork","sdr og nr bork",.) %>%
+  gsub("nakskov","nakskov idraetscenter",.) %>%
+  gsub("forum","forum horsens",.) %>%
+  gsub("helngoer hallen","helngor hallen",.) %>%
+  gsub("boldesager","boldesager skole",.) %>%
   gsub("jysk arena","silkeborghallerne",.)
   
 #check which districts are mismatched
 dkmerged<-merge(dk.df,afstemresr,by=c("opst2","afst2"),all.x=T,all.y=T)
-dkmerged<-subset(dkmerged, is.na(afstemnav) | is.na(redvotes))
+dkmismerged<-subset(dkmerged, is.na(afstemnav) | is.na(avotes))
 
 #set votes in unidentified places to zero
 dk$avotes<-0
 dk$vvotes<-0
 dk$ovotes<-0
-dk$bluevotes<-0
-dk$redvotes<-0
+dk$lightbluevotes<-0
+dk$pinkvotes<-0
 
 dk$opst2<-dk$OpstilNav %>%
   str_to_lower() %>%
@@ -151,8 +157,8 @@ for (i in 1:nrow(dk)){
   knownavotes<-subset(afstemresr,opst2==dk$opst2[i] & afst2==dk$afst2[i])$avotes
   knownvvotes<-subset(afstemresr,opst2==dk$opst2[i] & afst2==dk$afst2[i])$vvotes
   knownovotes<-subset(afstemresr,opst2==dk$opst2[i] & afst2==dk$afst2[i])$ovotes
-  knownbluevotes<-subset(afstemresr,opst2==dk$opst2[i] & afst2==dk$afst2[i])$bluevotes
-  knownredvotes<-subset(afstemresr,opst2==dk$opst2[i] & afst2==dk$afst2[i])$redvotes
+  knownlightbluevotes<-subset(afstemresr,opst2==dk$opst2[i] & afst2==dk$afst2[i])$lightbluevotes
+  knownpinkvotes<-subset(afstemresr,opst2==dk$opst2[i] & afst2==dk$afst2[i])$pinkvotes
 
   if (length(knownavotes)>0){
     dk$avotes[i]<-knownavotes
@@ -163,33 +169,33 @@ for (i in 1:nrow(dk)){
   if (length(knownovotes)>0){
     dk$ovotes[i]<-knownovotes
   }
-  if (length(knownbluevotes)>0){
-    dk$bluevotes[i]<-knownbluevotes
+  if (length(knownlightbluevotes)>0){
+    dk$lightbluevotes[i]<-knownlightbluevotes
   }
-  if (length(knownredvotes)>0){
-    dk$redvotes[i]<-knownredvotes
+  if (length(knownpinkvotes)>0){
+    dk$pinkvotes[i]<-knownpinkvotes
   }
 }
 
 dka<-dotsInPolys(dk,dk$avotes)
-dka$party="firebrick4"
+dka$party="red"
 dkv<-dotsInPolys(dk,dk$vvotes)
-dkv$party="dodgerblue2"
+dkv$party="blue"
 dko<-dotsInPolys(dk,dk$ovotes)
-dko$party="gold1"
+dko$party="yellow"
 
-dkb<-dotsInPolys(dk,dk$bluevotes)
-dkb$bloc="blue"
-dkr<-dotsInPolys(dk,dk$redvotes)
-dkr$bloc="red"
+# dkb<-dotsInPolys(dk,dk$bluevotes)
+# dkb$bloc="blue"
+# dkr<-dotsInPolys(dk,dk$redvotes)
+# dkr$bloc="red"
 
 #combine
-dkall<-spRbind(dkr,dkb)
-
+# dkall<-spRbind(dka,dkv)
 dkavo<-spRbind(dka,dkv)
 dkavo<-spRbind(dkavo,dko)
 
-head(dkall)
+head(dkavo)
+dim(dkavo)
 
 # extract the dataframe for ggplot
 #bloc.df <- data.frame(coordinates(dkall)[,1:2], bloc=dkall$bloc)
@@ -202,7 +208,7 @@ bloc.df<-scramble(bloc.df)
 #fortify base map
 dk.fort<-fortify(dk)
 
-bmap<-ggplot(subset(dk.fort,long<13), aes(x = long, y = lat)) + 
+bmap<-ggplot(subset(dk.fort,long<800000), aes(x = long, y = lat)) + 
   geom_polygon(aes(group = group), colour = I("grey65"), size=0.2, fill = "grey85") + 
   coord_equal() +
   theme_minimal() +
@@ -212,18 +218,19 @@ bmap<-ggplot(subset(dk.fort,long<13), aes(x = long, y = lat)) +
   xlab("") +
   ylab("")
 
-bmap
+ggsave(file="basemap.pdf",width = 8,height = 12)
 
 bloc.df_samp<-bloc.df[sample(1:nrow(bloc.df),680000,replace=F),]
 
 dotmap<-bmap +
-  geom_point(data=subset(bloc.df,x<13), aes(x=x,y=y, colour = party), size=0.4,alpha=.5) + 
-  scale_colour_manual(values=c("dodgerblue2","firebrick3","gold1")) +
+  geom_point(data=subset(bloc.df,x<800000), aes(x=x,y=y, colour = party), size=0.4,alpha=.5) + 
+  scale_colour_manual(values=c("blue","red","yellow")) +
   theme_minimal() +
   theme(panel.grid.minor=element_blank(), panel.grid.major=element_blank()) + 
   theme(axis.ticks = element_blank(), axis.text.x = element_blank(), axis.text.y = element_blank()) + 
   theme(panel.border = element_blank())
 
+dotmap
 
 pdf(file="dotmap.pdf",width=16,height=12)
 dotmap
